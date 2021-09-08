@@ -1,0 +1,17 @@
+name: tf1p12_env
+channels:
+  - anaconda
+  - defaults
+dependencies:
+  - keras=2.2.4
+  - python=3.6
+  - pip:
+    - numpy==1.16
+    - tensorflow-gpu==1.12
+    - matplotlib
+    - pandas
+    - opencv-python
+    - scikit-learn
+    - scikit-image
+
+prefix: /home/marceca/miniconda3/envs/tf1p12_env
