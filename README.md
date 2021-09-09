@@ -8,6 +8,10 @@ and cross-machine domain adaptation
 GradientReversal layer implementation based on the following code
 https://github.com/ajgallego/DANN
 
+## Results
+
+<img src="https://github.com/gmarceca/Adversarial-Conv-LSTM/blob/main/DANN_model_kappa_vs_epochs_TCV2AUG_adv.png" width="200" height="200" />
+
 ## Installation
 
 <b># Installation of Miniconda from scratch</b>
