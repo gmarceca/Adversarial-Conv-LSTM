@@ -10,7 +10,7 @@ https://github.com/ajgallego/DANN
 
 ## Results
 
-<img src="https://github.com/gmarceca/Adversarial-Conv-LSTM/blob/main/DANN_model_kappa_vs_epochs_TCV2AUG_adv.png" width="400" height="400" />
+<img src="https://github.com/gmarceca/Adversarial-Conv-LSTM/blob/main/DANN_model_kappa_vs_epochs_TCV2AUG_adv.png"/>
 
 ## Installation
 
